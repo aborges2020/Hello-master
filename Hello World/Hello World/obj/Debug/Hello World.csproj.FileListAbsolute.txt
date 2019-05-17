@@ -1,0 +1,6 @@
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Temp\Hello-master\Hello-master\Hello World\Hello World\obj\Debug\Hello World.pdb
